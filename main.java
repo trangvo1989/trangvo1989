@@ -4,7 +4,7 @@ public class main {
 
 		Random rand = new Random();
 
-		int[] arr = {};
+		int[] arr = new int[3];
 		int max =10;
 		int min =1;
 		boolean flag =false;
